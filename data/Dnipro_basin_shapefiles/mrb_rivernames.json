@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "mrb_rivernames",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 232, "MRBID": 6204, "RIVERBASIN": "DNIEPER", "RIVER": "Desna", "CONTINENT": "Europe", "SEA": "Black Sea", "OCEAN": "Atlantic Ocean", "ORIG_FID": 232 }, "geometry": { "type": "Point", "coordinates": [ 32.652083333332484, 51.564583333332727 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 233, "MRBID": 6204, "RIVERBASIN": "DNIEPER", "RIVER": "Dnieper", "CONTINENT": "Europe", "SEA": "Black Sea", "OCEAN": "Atlantic Ocean", "ORIG_FID": 233 }, "geometry": { "type": "Point", "coordinates": [ 31.456249999999159, 49.97708333333275 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 234, "MRBID": 6204, "RIVERBASIN": "DNIEPER", "RIVER": "Prypyat", "CONTINENT": "Europe", "SEA": "Black Sea", "OCEAN": "Atlantic Ocean", "ORIG_FID": 234 }, "geometry": { "type": "Point", "coordinates": [ 28.514583333332496, 52.102083333332679 ] } }
+]
+}
